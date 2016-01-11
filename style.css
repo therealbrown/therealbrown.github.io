@@ -1,40 +1,27 @@
 body {
-  font-family: 'helvetica neue', arial, sans-serif;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
   font-weight: 300;
-  background-image: url("http://orig01.deviantart.net/125e/f/2011/225/e/f/night_city_lights_by_ati711-d46fp5i.jpg");
+  background-image: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/symphony.png");
   background-repeat: repeat;
-  background-size: 150%;
+  background-size: 15%;
 }
 #wrapper {
   width: 960px;
   margin: 20px auto 20px auto;
 }
 h1{
-	color:white;
-	text-shadow:35px;
-	/*i have no idea wahat's going on*/
+	color:black;
+	text-decoration: overline underline;
 }
 h2{
-	color:white;
-	/*i have no idea wahat's going on*/
+	color:black;
+	font-style: italic; 
 }
-h3{
-	color:white;
-	/*i have no idea wahat's going on*/
+#tagline{color:orange;
 }
-
-h4{
-	color:white;
-}
-li{color:white;}
-h5{
-	color:white;
-	/*i have no idea wahat's going on*/
-}
-#summary{color:white;}
-.unicorns{color:white;}
 img{
 	height:200px;
 	width:150px;
 }
-p{color:white;}
+.skills{color:green;
+}
